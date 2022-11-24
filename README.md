@@ -58,7 +58,7 @@ main.go is an example CLI app for running bytecode using Space EVM.
 **--gas (optional):** gas limit for the execution, it is a decimal, and it's default value is 1_000_000_000
 
 ## Examples
-- ```go run main.go --bytecode 6001``` : PUSH1 0x01
+- ```go run main.go --bytecode 6001``` :
 
   ```
   --------------------------------------------------
@@ -67,7 +67,7 @@ main.go is an example CLI app for running bytecode using Space EVM.
   Gas Refund:           999999997
   --------------------------------------------------
   ```
-- ```go run main.go --bytecode 600061000152``` : PUSH1 0x00 | PUSH2 0x0001 | MSTORE
+- ```go run main.go --bytecode 600061000152``` :
   ```
   --------------------------------------------------
   Memory Keccak256:     ad3228b676f7d3cd4284a5443f17f1962b36e491b30a40b2405849e597ba5fb5
