@@ -1,9 +1,11 @@
 # <p align=center>SPACE EVM<p>
 Hello there Earthling! It is 2080 here and I am here to tell my story from the future.
 
-Mankind extinction has arrived and only few hundreds of people were able to survive and currently live in a spaceship. We developed farms and necessary storages to ensure the survival up here. But we lack one thing, which is a must for the proper living of the human civilization. You guessed it, it's blockchain. And me as a helpless human being, am the only one who can bring blockchain to our space civilization.
+Mankind extinction has arrived and only few hundreds of people were able to survive and currently live in a spaceship. We developed farms and necessary storages to ensure the survival up here. 
 
-We are building the civilization from bottom to ground, therefore we must not make the mistakes our ancestors did. You guessed it again, it's the banks & government. This work of mine will ensure that in any field which involves exchange, there will be no pre-requisite to trust another party. The only truth will be the code itself!
+We are building the civilization from bottom to ground, therefore we must not make the mistakes our ancestors did. You guessed it, it's the banks & governments.
+
+You might ask: "But what are we gonna do without government providing security and trust for us!?". Let me tell you what I am going to do, a blockchain. This work of mine will ensure that in any field which involves exchange, there will be no pre-requisite to trust another party. The only truth will be the code itself. And me as a helpless human being, am the only one who can bring blockchain to our space civilization.
 
 I did not have big advancements yet, but I was able to do some doodling. I might not live long after I deliver you this, there are high-rank people who does not support what I am trying to achieve here. In such a case I must make sure this work of mine is inherited to another human being.
 
