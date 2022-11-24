@@ -56,3 +56,22 @@ main.go is an example CLI app for running bytecode using Space EVM.
 **--bytecode (required):** bytecode to be executed, should contain only hex characters with no '0x' prefix.
 
 **--gas (optional):** gas limit for the execution, it is a decimal, and it's default value is 1_000_000_000
+
+## Examples
+- ```go run main.go --bytecode 6001``` : PUSH1 0x01
+
+  ```
+  --------------------------------------------------
+  Memory Keccak256:     c5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470
+  Total Gas Consumed:   3
+  Gas Refund:           999999997
+  --------------------------------------------------
+  ```
+- ```go run main.go --bytecode 600061000152``` : PUSH1 0x00 | PUSH2 0x0001 | MSTORE
+  ```
+  --------------------------------------------------
+  Memory Keccak256:     ad3228b676f7d3cd4284a5443f17f1962b36e491b30a40b2405849e597ba5fb5
+  Total Gas Consumed:   15
+  Gas Refund:           999999985
+  --------------------------------------------------
+  ```
